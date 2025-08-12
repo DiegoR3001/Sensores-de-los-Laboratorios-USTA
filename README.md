@@ -13,11 +13,6 @@ Un anemómetro es un sensor diseñado para medir la velocidad del viento. Funcio
 - Control de ventilación en sistemas HVAC.  
 - Monitoreo en turbinas eólicas.  
 
-*Referencia:*  
-[Wikipedia - Anemómetro](https://es.wikipedia.org/wiki/Anem%C3%B3metro)
-
----
-
 ### 2. Sensor ultrasónico
 ![Sensor ultrasónico](NOMBRE_IMAGEN_2.jpg)  
 *Descripción:*  
@@ -27,11 +22,6 @@ Este sensor mide la distancia a un objeto utilizando ondas de ultrasonido. Emite
 - Sistemas de estacionamiento para autos.  
 - Robots móviles para detección de obstáculos.  
 - Control de nivel de líquidos.  
-
-*Referencia:*  
-[HC-SR04 Datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
-
----
 
 ### 3. Sensor de etapa (posiblemente de temperatura)
 ![Sensor de etapa](NOMBRE_IMAGEN_3.jpg)  
@@ -44,11 +34,6 @@ Si es un sensor de temperatura, convierte cambios de temperatura en una señal e
 - Monitoreo de equipos.  
 - Protección contra sobrecalentamiento.  
 
-*Referencia:*  
-[LM35 Datasheet](https://www.ti.com/lit/ds/symlink/lm35.pdf)
-
----
-
 ### 4. Sensor para bloquear puertas
 ![Sensor para bloquear puertas](NOMBRE_IMAGEN_4.jpg)  
 *Descripción:*  
@@ -59,11 +44,6 @@ Un sensor magnético o de proximidad para puertas detecta si la puerta está cer
 - Control de acceso.  
 - Automatización de cerraduras eléctricas.  
 
-*Referencia:*  
-[Reed Switch Wikipedia](https://es.wikipedia.org/wiki/Interruptor_de_leng%C3%BCeta)
-
----
-
 ### 5. Sensor infrarrojo
 ![Sensor infrarrojo](NOMBRE_IMAGEN_5.jpg)  
 *Descripción:*  
@@ -73,6 +53,3 @@ Un sensor infrarrojo detecta radiación IR, ya sea para medir temperatura sin co
 - Control remoto de dispositivos electrónicos.  
 - Sensores de movimiento en alarmas y luces automáticas.  
 - Sistemas de conteo de personas.  
-
-*Referencia:*  
-[IR Sensor - Electronics Hub](https://www.electronicshub.org/ir-sensor/)
