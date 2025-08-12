@@ -22,16 +22,14 @@ Este sensor mide la distancia a un objeto utilizando ondas de ultrasonido. Emite
 - Robots móviles para detección de obstáculos.  
 - Control de nivel de líquidos.  
 
-### 3. Sensor de etapa (posiblemente de temperatura)
-
+### 3. Sensor de etapa 
 *Descripción:*  
-En el contexto de laboratorios de electrónica, un “sensor de etapa” podría referirse a un sensor que detecta un valor físico específico para una fase o etapa de un proceso, como temperatura, presión o posición.  
-Si es un sensor de temperatura, convierte cambios de temperatura en una señal eléctrica (ejemplo: LM35, DHT11, termopar, etc.).  
+Un sensor de etapa con nivel resistivo, mide la altura de un líquido dentro de un recipiente mediante la variación de resistencia eléctrica. Utiliza un flotador que sube y baja con el líquido, accionando un potenciómetro o pista resistiva, cuyo valor cambia proporcionalmente al nivel.  
 
 *Aplicaciones:*  
-- Control de procesos industriales.  
-- Monitoreo de equipos.  
-- Protección contra sobrecalentamiento.  
+- Medición de nivel de combustible en vehículos.  
+- Control de nivel en tanques de agua.  
+- Monitoreo de líquidos en procesos industriales.
 
 ### 4. Sensor para bloquear puertas
 
