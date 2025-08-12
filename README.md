@@ -45,7 +45,7 @@ Un sensor magnético o de proximidad para puertas detecta si la puerta está cer
 - Automatización de cerraduras eléctricas.  
 
 ### 5. Sensor infrarrojo
-![Sensor infrarrojo](Imagen de WhatsApp 2025-08-09 a las 20.32.25_ace9de8a.jpg)  
+(Imagen de WhatsApp 2025-08-09 a las 20.32.25_ace9de8a.jpg)  
 *Descripción:*  
 Un sensor infrarrojo detecta radiación IR, ya sea para medir temperatura sin contacto o para detectar movimiento y proximidad. Funciona emitiendo o recibiendo luz infrarroja invisible al ojo humano.  
 
