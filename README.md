@@ -22,7 +22,7 @@ Este sensor mide la distancia a un objeto utilizando ondas de ultrasonido. Emite
 - Robots móviles para detección de obstáculos.  
 - Control de nivel de líquidos.  
 
-### 3. Sensor de etapa 
+### 3. Sensor de etapa
 *Descripción:*  
 Un sensor de etapa con nivel resistivo, mide la altura de un líquido dentro de un recipiente mediante la variación de resistencia eléctrica. Utiliza un flotador que sube y baja con el líquido, accionando un potenciómetro o pista resistiva, cuyo valor cambia proporcionalmente al nivel.  
 
