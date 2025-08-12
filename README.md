@@ -5,6 +5,7 @@ Tarea 1, ¿con que sensores se cuenta en los laboratorios de la Santoto?
 
 ### 1. Anemómetro
 (WhatsApp Image 2025-08-09 at 20.32.26_c0653f85.jpg)
+(Imagen de WhatsApp 2025-08-09 at 20.32.26_c0653f85.jpg)
 *Descripción:*  
 Un anemómetro es un sensor diseñado para medir la velocidad del viento. Funciona detectando la fuerza del aire sobre sus aspas o mediante tecnologías como ultrasonidos.  
 
